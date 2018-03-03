@@ -21,5 +21,6 @@ int main(int argc, char* argv[])
 	cout << "My program in C++ Language." << endl;
 	cout << "thang is here";
 	cout << "using github";
+	cout << "thang khung";
 	return 0;
 }
